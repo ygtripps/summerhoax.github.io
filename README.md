@@ -1,3 +1,3 @@
 # summerhoax.com
-The free and opensource project exposing shit hosts.
-Please avoid these hosts at all cost.
+The free and opensource project for exposing shit hosts.
+Please avoid these hosts at all costs.

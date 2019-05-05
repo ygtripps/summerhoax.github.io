@@ -108,12 +108,12 @@ body {
 }
 
 .popover-header {
-    background-color: #7289DA !important;
+    background-color: #7289DA;
     color: #fff;
 }
 
 .popover-body {
-    background-color: #282a2e !important;
+    background-color: #282a2e;
     color: #fff;
 }
 
@@ -125,4 +125,32 @@ body {
     height: 100px;
     text-align: center;
     margin: 0 auto;
+}
+
+.dropdown-menu {
+    background-color: #282a2e;
+}
+
+.dropdown .dropdown-menu a {
+    color: #fff;
+    text-decoration: none;
+    background-color: #282a2e;
+}
+
+.dropdown-menu .dropdown-item {
+    display: inline-block;
+    width: 100%;
+    padding: 10px 5px;
+}
+
+.container .dropdown .dropdown-menu a:hover {
+    color: #fff;
+    background-color: #7489d6;
+    border-color: #fff;
+}
+
+.dropdown-item.active {
+    color: #fff;
+    background-color: #7489d6;
+    border-color: #fff;
 }

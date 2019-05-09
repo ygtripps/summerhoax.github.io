@@ -1,4 +1,6 @@
-/*
+<style data-emotion=""></style>
+<style>
+    /*
  * Globals
  */
 
@@ -15,7 +17,7 @@ a:hover {
 
 html,
 body {
-    background-color: #36393f;
+    background-color: #181A1B;
 }
 
 body {
@@ -96,11 +98,11 @@ body {
 }
 
 .jumbotron {
-    background-color: #292b2f;
+    background-color: #1d1f21;
 }
 
 .card {
-    background-color: #292b2f;
+    background-color: #181A1B;
 }
 
 .text-muted {
@@ -119,7 +121,7 @@ body {
 
 .roundedbox {
     border-radius: 40px;
-    background: #282a2e;
+    background: #1d1f21;
     padding: 20px;
     width: 300px;
     height: 100px;
@@ -154,3 +156,4 @@ body {
     background-color: #7489d6;
     border-color: #fff;
 }
+</style>

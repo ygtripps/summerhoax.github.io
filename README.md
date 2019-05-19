@@ -6,4 +6,4 @@ Please avoid them at all costs.
 Check out <https://github.com/summerhoax/summerhoax.github.io/wiki>.
 
 ## Want to discuss about hosting? Want to chill in our Discord?
-<https://discord.gg/nWTRYwm>
+<https://discord.gg/ru5gCBz>

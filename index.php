@@ -2,70 +2,13 @@
 <html lang="en">
 
 <head>
-    <!-- Required meta tags -->
-    <meta charset="utf-8">
-    <meta content="width=device-width, initial-scale=1, shrink-to-fit=no" name="viewport">
-    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
-    <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-    <link rel="stylesheet" href="assets/main.css"> <!-- TODO: Add integrity Check -->
+    <?php require_once('includes/views/head.php'); ?>
     <title>Home | Summer Hoax Club!</title>
-    <!-- Some meta tags -->
-    <meta content="summerhosts, summerhoaxes, summerhoax, summerhoaxes, shit hosts, shit, hosts, host, shit host" name="keywords">
-    <meta content="Welcome to SummerHoax." name="description">
-    <meta content="index,follow,noodp,noydir" name="robots">
-    <meta property="og:type" content="website">
-    <meta property="og:url" content="https://summerhoax.com">
-    <meta property="og:title" content="SummerHoax">
-    <!-- Twitter -->
-<meta property="twitter:card" content="summary_large_image">
-<meta property="twitter:url" content="https://summerhoax.com/">
-<meta property="twitter:title" content="SummerHoax">
-<meta property="twitter:description" content="Free and open source project exposing shit hosts, Summerhosts.">
-<meta property="twitter:image" content="https://summerhoax.com/assets/logo.png">
-                                                         
-    <meta property="og:site_name" content="SummerHoax — Homepage">
-    <meta property="og:description" content="We are a free and open source project exposing shit hosts for what they are.">
-    <meta property="og:locale" content="en-US">
-    <meta property="og:image" content="https://summerhoax.com/assets/logo.png">
-    <!-- Navbar -->
-    <div class="container" style="padding-bottom: 35px;">
-        <nav class="navbar navbar-expand-lg navbar-dark">
-            <div class="container">
-                <a class="navbar-brand" href="https://summerhoax.com">SummerHoax</a>
-                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#summerHoaxNavbar" aria-controls="summerHoaxNavbar" aria-expanded="false" aria-label="Toggle Navigation">
-                    <span class="navbar-toggler-icon"></span>
-                </button>
-                <div class="collapse navbar-collapse" id="summerHoaxNavbar">
-                    <ul class="navbar-nav mr-auto">
-                        <li class="nav-item">
-                            <a class="nav-link active" href="https://summerhoax.com">Home</a>
-                        </li>
-                        <li class="nav-item dropdown">
-                            <a class="nav-link dropdown-toggle" data-toggle="dropdown">
-                                Vault
-                            </a>
-                            <div class="dropdown-menu">
-                                <a class="dropdown-item" href="https://summerhoax.com/vault/">Index</a>
-                                <a class="dropdown-item" href="https://summerhoax.com/vault/icx">ICX</a>
-                            </div>
-                        </li>
-                    </ul>
-                    <ul class="navbar-nav">
-                        <li class="nav-item">
-                            <a class="nav-link" href="https://discord.gg/ru5gCBz">Discord</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="https://github.com/SummerHoax/summerhoax.github.io">GitHub</a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-        </nav>
-        <!-- Navbar -->
 </head>
 
 <body>
+<div class="container">
+    <?php include_once('includes/views/navbar.php'); ?>
     <div class="jumbotron">
         <h1 class="display-4">Join the SummerHoax Club&trade;</h1>
         <p class="lead">Running short on money? Want a little extra cash to spend on minecraft server donation
@@ -354,96 +297,72 @@
                     <p class="text-muted">Thanks to the wonders of technology, you can view previous versions of
                         these websites at
                         <a href=https://archive.org/>archive.org </a>. </p> </div> </div> <br>
-                            <div class="card">
-                                <div class="card-body">
-                                    <h5>Notable Mentions</h5>
-                                    <p class="text-muted">Those brilliant enough to make SummerHoax's famous
-                                        "Notable Mentions" card. These people are truly amazing.</p>
-                                    <hr>
-                                    <ul>
-                                        <li data-placement="left" data-toggle="tooltip" title="The well known and beloved scammer, stealing hardware via fake colocations. He is also a registered sex offender. What a wunderbar human being amirite?">
-                                            <a href="https://summerhoax.com/vault/prout">Joshua Prout</a>
-                                        </li>
-                                        <li data-placement="left" data-toggle="tooltip" title="Not only was this 11yo able to create 3 new hosts without breaking a sweat, he fell for a 'remove all files' prank and deleted his entire node. He has also made multiple death threats, hacking threats and been exposed on MC-Market.">
-                                            <a href="#">SkyBomb</a>
-                                        </li>
-                                        <li data-placement="left" data-toggle="tooltip" title="This ingenius hobo was able to create an entirely new, much more shittier, view on the hosting industry as 'real estate'. Since then, he has become a giant meme and is likely on the FBI Watch List for 'Lunatic Men'.">
-                                            <a href="#">FCCAGut</a>
-                                        </li>
-                                        <li data-placement="left" data-toggle="tooltip" title="This superhero was born with the power to recreate anything after it receives bad rep.">
-                                            <a href="#">Voxtility</a>
-                                        </li>
-                                        <li data-placement="left" data-toggle="tooltip" title="Once a successful entrepreneur, now a distant memory. He's shut his host down cold-turkey, clients left without anything. Now it is run by the group 'Veritor', a notorious selection of shady hosts.">
-                                            <a href="#">iCubik</a>
-                                        </li>
-                                        <li data-placement="left" data-toggle="tooltip" title="This unintelligent leaker paid for a resource using his leak name (awecrift). While attempting to crack the resource, he removed one too many lines and resulted in nuking one of his nodes. 'I won't leak anymore'[sic]">
-                                            <a href="#">ItzAwesome </a>
-                                        </li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <br>
-                            <div class="card">
-                                <div class="card-body">
-                                    <h5>What is a "Summer Hoax"?</h5>
-                                    <p class="text-muted">A "Summer Hoax" is a hosting company that someone's trying
-                                        to start that's usually not a legally registered business,
-                                        has bad business practices, uses nulled billing systems, or just low effort
-                                        in general. They usually have an average
-                                        lifespan of a couple months, and are mostly out to appeal towards the low
-                                        budget audience (mostly made of kids) for
-                                        hosting in order to make a quick buck or two.</p>
-                                </div>
-                            </div>
-                            <br>
-                            <div class="card">
-                                <div class="card-body">
-                                    <h5>Disclaimer</h5>
-                                    <p class="text-muted">Everything you see on the left is a joke and should not be
-                                        taken as serious advice. This site exists simply to critize
-                                        and warn about some of the "summer hoaxes" out there.</p>
-                                </div>
-                            </div>
-                            <br>
-                            <div class="card">
-                                <div class="card-body">
-                                    <h5>Contact Us</h5>
-                                    <p class="text-muted">Got any suggestions? Is there a host I am missing or is
-                                        there a host you think should be taken off the list? Join our
-                                        <a href="https://summerhoax.com/discord">Discord Server</a> and give us your
-                                        ideas. We are welcoming to everyone, including the angry Certified Summer
-                                        Hoaxts&trade;
-                                        owners if that happens to be you!</p>
-                                </div>
-                            </div>
+            <div class="card">
+                <div class="card-body">
+                    <h5>Notable Mentions</h5>
+                    <p class="text-muted">Those brilliant enough to make SummerHoax's famous
+                        "Notable Mentions" card. These people are truly amazing.</p>
+                    <hr>
+                    <ul>
+                        <li data-placement="left" data-toggle="tooltip" title="The well known and beloved scammer, stealing hardware via fake colocations. He is also a registered sex offender. What a wunderbar human being amirite?">
+                            <a href="https://summerhoax.com/vault/prout">Joshua Prout</a>
+                        </li>
+                        <li data-placement="left" data-toggle="tooltip" title="Not only was this 11yo able to create 3 new hosts without breaking a sweat, he fell for a 'remove all files' prank and deleted his entire node. He has also made multiple death threats, hacking threats and been exposed on MC-Market.">
+                            <a href="#">SkyBomb</a>
+                        </li>
+                        <li data-placement="left" data-toggle="tooltip" title="This ingenius hobo was able to create an entirely new, much more shittier, view on the hosting industry as 'real estate'. Since then, he has become a giant meme and is likely on the FBI Watch List for 'Lunatic Men'.">
+                            <a href="#">FCCAGut</a>
+                        </li>
+                        <li data-placement="left" data-toggle="tooltip" title="This superhero was born with the power to recreate anything after it receives bad rep.">
+                            <a href="#">Voxtility</a>
+                        </li>
+                        <li data-placement="left" data-toggle="tooltip" title="Once a successful entrepreneur, now a distant memory. He's shut his host down cold-turkey, clients left without anything. Now it is run by the group 'Veritor', a notorious selection of shady hosts.">
+                            <a href="#">iCubik</a>
+                        </li>
+                        <li data-placement="left" data-toggle="tooltip" title="This unintelligent leaker paid for a resource using his leak name (awecrift). While attempting to crack the resource, he removed one too many lines and resulted in nuking one of his nodes. 'I won't leak anymore'[sic]">
+                            <a href="#">ItzAwesome </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <br>
+            <div class="card">
+                <div class="card-body">
+                    <h5>What is a "Summer Hoax"?</h5>
+                    <p class="text-muted">A "Summer Hoax" is a hosting company that someone's trying
+                        to start that's usually not a legally registered business,
+                        has bad business practices, uses nulled billing systems, or just low effort
+                        in general. They usually have an average
+                        lifespan of a couple months, and are mostly out to appeal towards the low
+                        budget audience (mostly made of kids) for
+                        hosting in order to make a quick buck or two.</p>
+                </div>
+            </div>
+            <br>
+            <div class="card">
+                <div class="card-body">
+                    <h5>Disclaimer</h5>
+                    <p class="text-muted">Everything you see on the left is a joke and should not be
+                        taken as serious advice. This site exists simply to critize
+                        and warn about some of the "summer hoaxes" out there.</p>
+                </div>
+            </div>
+            <br>
+            <div class="card">
+                <div class="card-body">
+                    <h5>Contact Us</h5>
+                    <p class="text-muted">Got any suggestions? Is there a host I am missing or is
+                        there a host you think should be taken off the list? Join our
+                        <a href="https://summerhoax.com/discord">Discord Server</a> and give us your
+                        ideas. We are welcoming to everyone, including the angry Certified Summer
+                        Hoaxts&trade;
+                        owners if that happens to be you!</p>
                 </div>
             </div>
         </div>
-        <!-- Optional JavaScript -->
-        <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
-        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
-        <script>
-        window.dataLayer = window.dataLayer || [];
+    </div>
+</div>
 
-        function gtag() {
-            dataLayer.push(arguments);
-        }
-        gtag('js', new Date());
-
-        gtag('config', 'UA-119547589-1');
-
-        $(function() {
-            $('[data-toggle="tooltip"]').tooltip()
-        })
-        </script>
-        <script src="https://cdn.jsdelivr.net/npm/@widgetbot/crate@3" async defer>
-        new Crate({
-            server: '571922612230422528',
-            channel: '571922612230422530',
-            shard: 'https://disweb.deploys.io'
-        })
-        </script>
+<?php require_once('includes/views/scripts.php'); ?>
 </body>
-
 </html>

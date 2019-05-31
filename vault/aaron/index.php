@@ -6,10 +6,8 @@
     <title>Joshua Prout | Summer Hoax Club!</title>
 </head>
 <!--
-
         THIS IS VERY MUCH WIP, IMAGE SPACING IS WACK BUT I'M TOO LAZY TO FIX IT (I MIGHT DO IT LATER IDK)
         I fixed it for you -Luna
-
 -->
 <body>
     <div class="container">

@@ -7,41 +7,8 @@
 </head>
 
 <body>
-<!-- Navbar -->
-<div class="container" style="padding-bottom: 35px;">
-    <nav class="navbar navbar-expand-lg navbar-dark">
-        <div class="container">
-            <a class="navbar-brand" href="https://summerhoax.com">SummerHoax</a>
-            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#summerHoaxNavbar" aria-controls="summerHoaxNavbar" aria-expanded="false" aria-label="Toggle Navigation">
-                <span class="navbar-toggler-icon"></span>
-            </button>
-            <div class="collapse navbar-collapse" id="summerHoaxNavbar">
-                <ul class="navbar-nav mr-auto">
-                    <li class="nav-item">
-                        <a class="nav-link active" href="https://summerhoax.com">Home</a>
-                    </li>
-                    <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" data-toggle="dropdown">
-                            Vault
-                        </a>
-                        <div class="dropdown-menu">
-                            <a class="dropdown-item" href="https://summerhoax.com/vault/">Index</a>
-                            <a class="dropdown-item" href="https://summerhoax.com/vault/icx">ICX</a>
-                        </div>
-                    </li>
-                </ul>
-                <ul class="navbar-nav">
-                    <li class="nav-item">
-                        <a class="nav-link" href="https://discord.gg/ru5gCBz">Discord</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="https://github.com/SummerHoax/summerhoax.github.io">GitHub</a>
-                    </li>
-                </ul>
-            </div>
-        </div>
-    </nav>
-    <!-- Navbar -->
+<div class="container">
+    <?php include_once('includes/views/navbar.php'); ?>
     <div class="jumbotron">
         <h1 class="display-4">Join the SummerHoax Club&trade;</h1>
         <p class="lead">Running short on money? Want a little extra cash to spend on minecraft server donation

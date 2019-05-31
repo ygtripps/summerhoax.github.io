@@ -2,55 +2,13 @@
 <html lang="en">
 
 <head>
-    <!-- Required meta tags -->
-    <meta charset="utf-8">
-    <meta content="width=device-width, initial-scale=1, shrink-to-fit=no" name="viewport">
-    <link rel="shortcut icon" type="image/x-icon" href="https://summerhoax.com/favicon.ico" />
-    <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
-        integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://summerhoax.com/assets/main.css">
+    <?php require_once('../../includes/views/head.php'); ?>
     <title>InterConnX | Summer Hoax Club!</title>
-    <!-- Navbar -->
-    <div class="container" style="padding-bottom: 35px;">
-        <nav class="navbar navbar-expand-lg navbar-dark">
-            <div class="container">
-                <a class="navbar-brand" href="https://summerhoax.com">SummerHoax</a>
-                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#summerHoaxNavbar"
-                    aria-controls="summerHoaxNavbar" aria-expanded="false" aria-label="Toggle Navigation">
-                    <span class="navbar-toggler-icon"></span>
-                </button>
-                <div class="collapse navbar-collapse" id="summerHoaxNavbar">
-                    <ul class="navbar-nav mr-auto">
-                        <li class="nav-item">
-                            <a class="nav-link" href="https://summerhoax.com">Home</a>
-                        </li>
-                        <li class="nav-item dropdown active">
-                            <a class="nav-link dropdown-toggle" data-toggle="dropdown">
-                                Vault
-                            </a>
-                            <div class="dropdown-menu">
-                                <a class="dropdown-item" href="https://summerhoax.com/vault/">Index</a>
-                                <a class="dropdown-item" href="https://summerhoax.com/vault/icx">ICX</a>
-                            </div>
-                        </li>
-                    </ul>
-                    <ul class="navbar-nav">
-                        <li class="nav-item">
-                            <a class="nav-link" href="https://discord.gg/ru5gCBz">Discord</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="https://github.com/SummerHoax/summerhoax.github.io">GitHub</a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-        </nav>
-        <!-- Navbar -->
 </head>
 
 <body>
-    <div class="container" style="padding-bottom: 35px;">
+    <div class="container">
+        <?php include_once('../../includes/views/navbar.php'); ?>
         <div class="jumbotron">
             <h1 class="display-4">InterConnX</h1>
             <p class="lead">Looking for cheap colocation services or dedis ?</p>
@@ -72,7 +30,7 @@
                         <p>People over at LowEndTalk ARE dummies. They were not only able to trick a lot of people, but
                             they were also able to trick a few people over at SummerHoax to make an article about them.
                         </p>
-                        <img alt="InterConnX ASN" src="../assets/icx/TA-ASN.png"
+                        <img alt="InterConnX ASN" src="/static_assets/media/hoaxes/icx/TA-ASN.png"
                             style="max-width: 100%;margin: 0 auto;display: block;">
                         <br>
                         <br>
@@ -83,13 +41,13 @@
                             used.
                             <br>
                             <br>
-                            <img alt="InterConnX ASN" src="../assets/icx/1.jpg"
+                            <img alt="InterConnX ASN" src="/static_assets/media/hoaxes/icx/1.jpg"
                                 style="max-width: 100%;margin: 0 auto;display: block;">
                             <br>
-                            <img alt="InterConnX ASN" src="../assets/icx/2.jpg"
+                            <img alt="InterConnX ASN" src="/static_assets/media/hoaxes/icx/2.jpg"
                                 style="max-width: 100%;margin: 0 auto;display: block;">
                             <br>
-                            <img alt="InterConnX ASN" src="../assets/icx/3.jpg"
+                            <img alt="InterConnX ASN" src="/static_assets/media/hoaxes/icx/3.jpg"
                                 style="max-width: 100%;margin: 0 auto;display: block;">
                             <br>
                             <br>
@@ -106,7 +64,7 @@
                             <p>This dedi is supposed to have at least a 100 Mbps symetrical internet connection. This is
                                 what you actually get: <a href="https://www.speedtest.net/result/8220259327.png"
                                     target="_blank">click me.</a></p>
-                            <img alt="Speedtest" src="../assets/icx/SPEEDTEST.png"
+                            <img alt="Speedtest" src="/static_assets/media/hoaxes/icx/SPEEDTEST.png"
                                 style="max-width: 100%;margin: 0 auto;display: block;">
                             <br>
                             <br>
@@ -115,7 +73,7 @@
                                 under the global average. Just look at that upload: <b>5.08 Mbit/s!</b></p>
                             <p>If you tought that was really bad, wait till you see the ping to Google: <b>112 ms!</b>
                             </p>
-                            <img alt="Google ping" src="../assets/icx/PING.png"
+                            <img alt="Google ping" src="/static_assets/media/hoaxes/icx/PING.png"
                                 style="max-width: 100%;margin: 0 auto;display: block;">
                             <br>
                     </div>
@@ -160,37 +118,7 @@
             </div>
         </div>
     </div>
-    <!-- Optional JavaScript -->
-    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
-        integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous">
-    </script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
-        integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous">
-    </script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
-        integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous">
-    </script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
-
-        function gtag() {
-            dataLayer.push(arguments);
-        }
-        gtag('js', new Date());
-
-        gtag('config', 'UA-119547589-1');
-
-        $(function () {
-            $('[data-toggle="tooltip"]').tooltip()
-        })
-    </script>
-    <script src="https://cdn.jsdelivr.net/npm/@widgetbot/crate@3" async defer>
-        new Crate({
-            server: '571922612230422528',
-            channel: '571922612230422530',
-            shard: 'https://disweb.deploys.io'
-        })
-    </script>
+    <?php require_once('../../includes/views/scripts.php') ?>
 </body>
 
 </html>

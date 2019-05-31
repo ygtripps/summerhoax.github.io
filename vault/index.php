@@ -13,7 +13,7 @@
     <p style="text-align: center">Welcome to The Vault. Below, you will find a gallery of hosting providers, and a specifically tailored page for each entry shown below.</p>
     <div class="card-columns">
         <div class="card">
-            <a href="#">
+            <a href="aaron/">
                 <img src="/static_assets/media/hoaxes/webrex/aaron.png" class="card-img-top" alt="Logo of WebRex">
             </a>
                 <div class="card-body">
@@ -26,7 +26,7 @@
                 <a tabindex="0" data-toggle="popover" data-trigger="focus" title="Information" data-content="Sorry, we're currently developing this page!">Read More</a>
             </span> -->
             <span style="float:right;">
-                <a href="https://summerhoax.com/vault/aaron/index.html">Read More</a>
+                <a href="aaron/">Read More</a>
             </span>
         </div>
     </div>
@@ -138,7 +138,7 @@
         </div>
     </div>
     <div class="card">
-        <a href="https://summerhoax.com/vault/icx">
+        <a href="icx/">
             <img src="https://icxrealty.com/wp-content/uploads/2013/06/tlogo.png" class="card-img-top" alt="Logo of InterConnX">
         </a>
         <div class="card-body">
@@ -148,7 +148,7 @@
         <div class="card-footer">
             <small class="text-muted">Last updated April 29, 2019</small>
             <span style="float:right;">
-            <a href="https://summerhoax.com/vault/icx">Read More</a>
+            <a href="icx/">Read More</a>
         </span>
         </div>
     </div>

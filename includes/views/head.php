@@ -11,12 +11,12 @@
 <meta property="twitter:url" content="https://summerhoax.com/">
 <meta property="twitter:title" content="SummerHoax">
 <meta property="twitter:description" content="Free and open source project exposing shit hosts, Summerhosts.">
-<meta property="twitter:image" content="https://summerhoax.com/assets/logo.png">
-<meta property="og:site_name" content="SummerHoax — Homepage">
+<meta property="twitter:image" content="/static_assets/media/logo.png">
+<meta property="og:site_name" content="SummerHoax">
 <meta property="og:description" content="We are a free and open source project exposing shit hosts for what they are.">
 <meta property="og:locale" content="en-US">
-<meta property="og:image" content="https://summerhoax.com/assets/logo.png">
+<meta property="og:image" content="/static_assets/media/logo.png">
 
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
-<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-<link rel="stylesheet" href="assets/main.css"> <!-- TODO: Add integrity Check -->
+<link rel="stylesheet" href="/static_assets/vendor/css/bootstrap.min.css">
+<link rel="stylesheet" href="/static_assets/css/main.css">

@@ -14,7 +14,7 @@
                         Vault
                     </a>
                     <div class="dropdown-menu">
-                        <a class="dropdown-item" href="/vault/">Index</a>
+                        <a class="dropdown-item" href="/vault/">View All</a>
                         <a class="dropdown-item" href="/vault/icx">ICX</a>
                     </div>
                 </li>

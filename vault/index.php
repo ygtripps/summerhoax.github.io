@@ -14,7 +14,7 @@
     <div class="card-columns">
         <div class="card">
             <a href="#">
-                <img src="assets/webrex/aaron.png" class="card-img-top" alt="Logo of WebRex">
+                <img src="/static_assets/media/hoaxes/webrex/aaron.png" class="card-img-top" alt="Logo of WebRex">
                 <div class="card-body">
                     <h5 class="card-title">Aaron Ward</h5>
             </a>
@@ -32,7 +32,7 @@
     </div>
     <div class="card">
         <a href="#">
-            <img src="assets/webrex/logo.png" class="card-img-top" alt="Logo of WebrexHosting">
+            <img src="/static_assets/media/hoaxes/webrex/logo.png" class="card-img-top" alt="Logo of WebrexHosting">
             <div class="card-body">
                 <h5 class="card-title">Webrex Hosting - Dedifire</h5>
         </a>
@@ -47,7 +47,7 @@
 </div>
 <div class="card">
     <a href="#">
-        <img src="assets/veritor/atlias-cubiknode-logo.png" class="card-img-top" alt="Combined company logos under Veritor.">
+        <img src="/static_assets/media/hoaxes/veritor/atlias-cubiknode-logo.png" class="card-img-top" alt="Combined company logos under Veritor.">
         <div class="card-body">
             <h5 class="card-title">Veritor - CubikNode & Atlias</h5>
     </a>
@@ -60,10 +60,9 @@
                 <a tabindex="0" data-toggle="popover" data-trigger="focus" title="Information" data-content="Sorry, we're currently developing this page!">Read More</a>
             </span>
 </div>
-</div>
 <div class="card">
     <a href="#">
-        <img src="assets/fortresshost/fortresshost-logo.png" class="card-img-top" alt="Logo of FortressHost">
+        <img src="/static_assets/media/hoaxes/fortresshost/fortresshost-logo.png" class="card-img-top" alt="Logo of FortressHost">
         <div class="card-body">
             <h5 class="card-title">FortressHost</h5>
     </a>
@@ -75,10 +74,9 @@
             <a tabindex="0" data-toggle="popover" data-trigger="focus" title="Information" data-content="Sorry, we're currently developing this page!">Read More</a>
         </span>
 </div>
-</div>
 <div class="card">
     <a href="#">
-        <img src="assets/itzawesome/itzawesome.png" class="card-img-top" alt="Image representing ItzAwesome">
+        <img src="/static_assets/media/hoaxes/itzawesome/itzawesome.png" class="card-img-top" alt="Image representing ItzAwesome">
         <div class="card-body">
             <h5 class="card-title">ItzAwesome</h5>
     </a>
@@ -90,10 +88,9 @@
             <a tabindex="0" data-toggle="popover" data-trigger="focus" title="Information" data-content="Sorry, we're currently developing this page!">Read More</a>
         </span>
 </div>
-</div>
 <div class="card">
     <a href="#">
-        <img src="assets/voxtility/voxtility.png" class="card-img-top" alt="Avatar of Voxtility from MCM">
+        <img src="/static_assets/media/hoaxes/voxtility/voxtility.png" class="card-img-top" alt="Avatar of Voxtility from MCM">
         <div class="card-body">
             <h5 class="card-title">Voxtility</h5>
     </a>
@@ -105,10 +102,9 @@
             <a tabindex="0" data-toggle="popover" data-trigger="focus" title="Information" data-content="Sorry, we're currently developing this page!">Read More</a>
         </span>
 </div>
-</div>
 <div class="card">
     <a href="#">
-        <img src="assets/skybomb/skybomb.png" class="card-img-top" alt="Image to represent SkyBomb (Credit to Rob Hopkins)">
+        <img src="/static_assets/media/hoaxes/skybomb/skybomb.png" class="card-img-top" alt="Image to represent SkyBomb (Credit to Rob Hopkins)">
         <div class="card-body">
             <h5 class="card-title">SkyBomb</h5>
     </a>
@@ -120,10 +116,9 @@
             <a tabindex="0" data-toggle="popover" data-trigger="focus" title="Information" data-content="Sorry, we're currently developing this page!">Read More</a>
         </span>
 </div>
-</div>
 <div class="card">
     <a href="#">
-        <img src="assets/enteronworld/enteronworld.png" class="card-img-top" alt="Logo of Enteron World">
+        <img src="/static_assets/media/hoaxes/enteronworld/enteronworld.png" class="card-img-top" alt="Logo of Enteron World">
         <div class="card-body">
             <h5 class="card-title">Enteron World | FCCAGut</h5>
     </a>
@@ -135,7 +130,6 @@
     <span style="float:right;">
             <a tabindex="0" data-toggle="popover" data-trigger="focus" title="Information" data-content="Sorry, we're currently developing this page!">Read More</a>
         </span>
-</div>
 </div>
 <div class="card">
     <a href="https://summerhoax.com/vault/icx">
@@ -151,10 +145,9 @@
             <a href="https://summerhoax.com/vault/icx">Read More</a>
         </span>
 </div>
-</div>
 <div class="card">
     <a href="#">
-        <img src="assets/fragbytehosting/fragbytehosting-logo.png" class="card-img-top" alt="Logo of FragbyteHosting">
+        <img src="/static_assets/media/hoaxes/fragbytehosting/fragbytehosting-logo.png" class="card-img-top" alt="Logo of FragbyteHosting">
         <div class="card-body">
             <h5 class="card-title">FragbyteHosting</h5>
     </a>
@@ -166,10 +159,9 @@
             <a tabindex="0" data-toggle="popover" data-trigger="focus" title="Information" data-content="Sorry, we're currently developing this page!">Read More</a>
         </span>
 </div>
-</div>
 <div class="card">
     <a href="#">
-        <img src="assets/mcshostingltd/mcshostingltd-logo.png" class="card-img-top" alt="Logo of MCSHosting LTD">
+        <img src="/static_assets/media/hoaxes/mcshostingltd/mcshostingltd-logo.png" class="card-img-top" alt="Logo of MCSHosting LTD">
         <div class="card-body">
             <h5 class="card-title">MCS Hosting LTD</h5>
     </a>
@@ -181,10 +173,9 @@
             <a tabindex="0" data-toggle="popover" data-trigger="focus" title="Information" data-content="Sorry, we're currently developing this page!">Read More</a>
         </span>
 </div>
-</div>
 <div class="card">
     <a href="#">
-        <img src="assets/bjncloud/bjncloud-logo.png" class="card-img-top" alt="Logo of BJNCloud Hosting">
+        <img src="/static_assets/media/hoaxes/bjncloud/bjncloud-logo.png" class="card-img-top" alt="Logo of BJNCloud Hosting">
         <div class="card-body">
             <h5 class="card-title">BJNCloud Hosting</h5>
     </a>
@@ -196,10 +187,9 @@
             <a tabindex="0" data-toggle="popover" data-trigger="focus" title="Information" data-content="Sorry, we're currently developing this page!">Read More</a>
         </span>
 </div>
-</div>
 <div class="card">
     <a href="#">
-        <img src="assets/server642/server642-logo.png" class="card-img-top" alt="Logo of Server642 LLC">
+        <img src="/static_assets/media/hoaxes/server642/server642-logo.png" class="card-img-top" alt="Logo of Server642 LLC">
         <div class="card-body">
             <h5 class="card-title">Server642 LLC</h5>
     </a>
@@ -213,7 +203,7 @@
 </div>
 <div class="card">
     <a href="#">
-        <img src="assets/termsgames/termsgames-logo.png" class="card-img-top" alt="Logo of TermsGames">
+        <img src="/static_assets/media/hoaxes/termsgames/termsgames-logo.png" class="card-img-top" alt="Logo of TermsGames">
         <div class="card-body">
             <h5 class="card-title">TermsGames</h5>
     </a>
@@ -224,7 +214,6 @@
     <span style="float:right;">
             <a tabindex="0" data-toggle="popover" data-trigger="focus" title="Information" data-content="Sorry, we're currently developing this page!">Read More</a>
         </span>
-</div>
 </div>
 
 <?php require_once('../includes/views/scripts.php'); ?>

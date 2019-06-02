@@ -250,7 +250,7 @@
                             <a href="https://freemc.site">FreeMC.site</a>
                         </li>
                         <li data-placement="left" data-toggle="tooltip" title="Multiple XSS vectors found within their site (user input - Discord username, server names etc) - website developer has no clue about web security; claims that PHP's echo function is safe and that XSS issues are caused by the host.">
-                            <a href="https://freemc.site">LimitedNodes.host</a>
+                            <a href="https://limitednodes.host">LimitedNodes.host</a>
                         </li>
                         <li data-placement="left" data-toggle="tooltip" title="Owned by the same owner as FreeMC. Low quality website and crappy hardware. Has tons of instances of 1GB servers on one dedicated machine. Super slow to start the bot up.">
                             <a href="https://discord.host">Discord.host</a>

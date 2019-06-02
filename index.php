@@ -274,21 +274,6 @@
             <br>
             <div class="card">
                 <div class="card-body">
-                    <h5>Tier XI Datacenter&trade;</h5>
-                    <p class="text-muted">Not having enough with just a Summer Hoax? How about an entire Datacenter?
-                    </p>
-                    <hr>
-                    <ul>
-                        <li data-placement="left" data-toggle="tooltip" title="Harnessing the power of a MC-Market system admin to make their datacenter great again! Also threatened to take down SummerHoax on their thread. Now featuring rapists and underage staff.">
-                            <a href="https://summerhoax.com/vault/icx">InterConnX.net</a>
-                        </li>
-                    </ul>
-                    <p class="text-muted">Colocate (not) with <a href="https://datacenter.summerhoax.com">InterConnX</a> today!</p>
-                </div>
-            </div>
-            <br>
-            <div class="card">
-                <div class="card-body">
                     <h5>Frozen Winter Hoaxes&trade;</h5>
                     <p class="text-muted">Certified Summer Hoaxes&trade; that no longer exist.</p>
                     <hr>

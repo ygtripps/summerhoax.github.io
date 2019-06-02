@@ -138,21 +138,6 @@
         </div>
     </div>
     <div class="card">
-        <a href="icx/">
-            <img src="https://icxrealty.com/wp-content/uploads/2013/06/tlogo.png" class="card-img-top" alt="Logo of InterConnX">
-        </a>
-        <div class="card-body">
-            <h5 class="card-title">InterConnX | ICXRealty</h5>
-            <p class="card-text">Harnessing the power of a MC-Market system admin to make their datacenter great again! Also threatened to take down SummerHoax on their thread. Now featuring underage staff.</p>
-        </div>
-        <div class="card-footer">
-            <small class="text-muted">Last updated April 29, 2019</small>
-            <span style="float:right;">
-            <a href="icx/">Read More</a>
-        </span>
-        </div>
-    </div>
-    <div class="card">
         <a href="#">
             <img src="/static_assets/media/hoaxes/fragbytehosting/fragbytehosting-logo.png" class="card-img-top" alt="Logo of FragbyteHosting">
         </a>

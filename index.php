@@ -264,6 +264,9 @@
                         <li data-placement="left" data-toggle="tooltip" title="Host ran by an owner who has no knowledge of his system, not even knowing who the provider is. The excuse is that he is still 'Mr.Learning', which is even worse that testing in production. This is the same owner as Dedifire.co.uk (a fake ripoff of the real company Dedifire LLC which got taken down by DMCA) who said he didn't care if his staff were leakers.">
                             <a href="https://webrexhosting.com/">WebrexHosting.com</a>
                         </li>
+                        <li data-placement="left" data-toggle="tooltip" title="Using nulled WHMCS, Owner is 12, lying about owned hardware, major league overselling, fell for a discord scam asking people to join Contabo Group">
+                            <a href="http://lightfordac.com">LightFordAC.com</a>
+                        </li>
                     </ul>
                     <p class="text-muted">We take no responsibility for the accuracy of these listings.</p>
                 </div>

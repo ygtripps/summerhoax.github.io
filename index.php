@@ -249,11 +249,11 @@
                         <li data-placement="left" data-toggle="tooltip" title="Same owner as MCSHosting. Stuffing hundreds if not thousands of Minecraft instances onto a poor dedicated server. The Pterodactyl daemons literally take half an hour to start and the machine has 20GB+ of just error logs. Owner also sells advertisements on his discord server to annoy the hell out of people since he has tons of members.">
                             <a href="https://freemc.site">FreeMC.site</a>
                         </li>
-                        <li data-placement="left" data-toggle="tooltip" title="Multiple XSS vectors found within their site (user input - Discord username, server names etc) - website developer has no clue about web security; claims that PHP's echo function is safe and that XSS issues are caused by the host.">
-                            <a href="https://limitednodes.host">LimitedNodes.host</a>
-                        </li>
                         <li data-placement="left" data-toggle="tooltip" title="Owned by the same owner as FreeMC. Low quality website and crappy hardware. Has tons of instances of 1GB servers on one dedicated machine. Super slow to start the bot up.">
                             <a href="https://discord.host">Discord.host</a>
+                        </li>
+                        <li data-placement="left" data-toggle="tooltip" title="Multiple XSS vectors found within their site and exposes other user's CP login details - website developer has no clue about web security; claims that PHP's echo function is safe and that XSS issues are caused by the host. No Terms of Service and Privacy Policy. Also selling advertisement slots within their server (including @everyone).">
+                            <a href="https://limitednodes.host">LimitedNodes.host</a>
                         </li>
                         <li data-placement="left" data-toggle="tooltip" title="A well-known scam, CubikNode transformed from a once thriving host to a 2-star 'poor' rating on trustpilot because of well over a dozen reports of scamming. The CEO has vanished and has left his clients with nothing.">
                             <a href="https://cubiknode.com">Cubiknode.com</a>

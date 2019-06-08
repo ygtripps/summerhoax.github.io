@@ -199,14 +199,14 @@
     </div>
     <div class="card">
         <a href="#">
-            <img src="/static_assets/media/hoaxes/termsgames/termsgames-logo.png" class="card-img-top" alt="Logo of TermsGames">
+            <img src="//i.imgur.com/2KLkuYc.png" class="card-img-top" alt="Logo of TermsGames">
         </a>
         <div class="card-body">
             <h5 class="card-title">TermsGames</h5>
             <p class="card-text">Sold machines to people and when he ran out of money to keep them up, he took them offline without allowing backups to be made. Has been caught selling dodgy windows keys and trying to resell nulled themes. Banned people on his discord for not giving him $15 on request. Scammed people by offering setup services and ghosting after getting money. When asked for money back he said he didn't care. Owner of Venelium Hosting Ltd (11102714) and Voroid Unturned Community.</p>
         </div>
         <div class="card-footer">
-            <small class="text-muted">Last updated May 25, 2019</small> <!-- Make sure you Update! -->
+            <small class="text-muted">Last updated June 8, 2019</small> <!-- Make sure you Update! -->
             <span style="float:right;">
             <a tabindex="0" data-toggle="popover" data-trigger="focus" title="Information" data-content="Sorry, we're currently developing this page!">Read More</a>
         </span>

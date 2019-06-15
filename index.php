@@ -267,7 +267,7 @@
                         <li data-placement="left" data-toggle="tooltip" title="Using nulled WHMCS, Owner is 12, lying about owned hardware, major league overselling, fell for a discord scam asking people to join Contabo Group">
                             <a href="http://lightfordac.com">LightFordAC.com</a>
                         </li>
-                         <li data-placement="left" data-toggle="tooltip" title="Owned by ItzAwesome, claims to give you 14GB of ram and 6 CPU Cores for $0. The owner doesn't even use any proper grammar ('losted files'). Extremely unprofessional staff. Admin doesn't even know the node specs. 'Please note about our nodes is currently under risk.'. They're abusing 1&1, and have even advertised their services in other people's Discords. They are also abusing a glitch to get paid resources for free on a popular web forum. Owner also uses leaked software. You also have to connect your Discord account to even use Falixnodes.">
+                         <li data-placement="left" data-toggle="tooltip" title="Owned by ItzAwesome, claims to give you 14GB of ram and 6 CPU Cores for $0. The owner doesn't even use any proper grammar ('losted files'). Extremely unprofessional staff. They gave the website developer admin, and the website developer doesn't even know the node specs. 'Please note about our nodes is currently under risk.' - ItzAwesome. They're obviously abusing 1&1 or they're overselling. They've even DM advertised their services in other host's Discord's. They are also abusing a glitch to get paid resources for free on a popular web forum. Owner also uses leaked software.">
                             <a href="http://falixnodes.host">FalixNodes.host</a>
                         </li>
                     </ul>
